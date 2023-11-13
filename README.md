@@ -1,0 +1,1 @@
+A tera Project to deploy react-native app with the ability to evolve and update codes through jenkins and github.
